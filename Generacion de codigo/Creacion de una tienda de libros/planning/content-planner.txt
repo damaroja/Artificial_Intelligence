@@ -1,0 +1,57 @@
+Entramos en ChatGPT y le preguntamos:
+
+> I'm creating a website for a book store that sell books that the authors have self-published. Can you tell me what kind of content the website shoud have?
+
+      Homepage:
+        A welcoming introduction to your bookstore and its mission.
+        Highlight featured self-published books or authors.
+        Navigation to key sections of the website.
+
+    About Us:
+        Information about the bookstore's history, mission, and values.
+        Details about how the store supports self-published authors.
+        Bios of the founders or key team members.
+
+    Browse Books:
+        Categories or genres for easy navigation.
+        Featured books or bestsellers.
+        Search functionality by title, author, genre, etc.
+
+    Author Spotlights:
+        Profiles of self-published authors.
+        Interviews, testimonials, or success stories.
+        Links to purchase their books.
+
+    Services for Authors:
+        Information about how authors can submit their books for consideration.
+        Details on any editing, formatting, or marketing services you offer.
+        Resources or guides for self-publishing authors.
+
+    Blog/Articles:
+        Content related to self-publishing, writing tips, author interviews, book reviews, etc.
+        Engaging articles to attract and educate your audience.
+
+    Events and Community:
+        Announcements for book signings, author readings, or other events.
+        Forums or discussion boards for authors and readers to connect.
+        Community spotlights or contests.
+
+    Contact Us:
+        Contact information (email, phone, address).
+        Contact form for inquiries or feedback.
+
+    FAQs:
+        Answers to common questions about the bookstore, its policies, and self-publishing.
+
+    Testimonials or Reviews:
+        Customer reviews or testimonials about the books and the store.
+        Social proof to build trust with potential customers.
+
+    Social Media Integration:
+        Links to your social media profiles.
+        Social sharing buttons for visitors to share books they like.
+
+    Newsletter Signup:
+        Option for visitors to subscribe to a newsletter for updates, promotions, and new releases.
+
+  
