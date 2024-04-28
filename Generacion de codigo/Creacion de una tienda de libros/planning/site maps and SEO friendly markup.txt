@@ -1,1 +1,79 @@
 
+Vamos a crear la estructura de mapa del website. Para ello vamos a preguntar a ChatGPT sobre esto.
+Recuerda que ChayGPT recuerda el contexto de la converdsacion por lo que puedes poner directamente :
+
+//**************************************
+>  Can you turn content ideas into a site
+//**************************************
+
+
+
+While I can't directly create a website for you here, I can certainly provide a structured outline that you can use as a guide to build your website. Here's how you might organize the content ideas into a site:
+
+Homepage:
+
+    Welcome Message: "Welcome to [Bookstore Name], Your Destination for Self-Published Gems!"
+    Featured Books Carousel: Display covers of several featured self-published books.
+    Mission Statement: Brief overview of the store's commitment to supporting self-published authors.
+    Call-to-Action: "Browse Books" button leading to the book catalog.
+
+About Us:
+
+    Our Story: History of the bookstore, including its founding and mission.
+    Our Mission: Detailed explanation of how the store supports self-published authors.
+    Meet the Team: Bios and photos of the founders or key team members.
+
+Browse Books:
+
+    Genre Categories: Navigation menu with categories like Fiction, Non-Fiction, Mystery, Romance, etc.
+    Featured Books: Showcase bestsellers or new arrivals in each category.
+    Search Bar: Allows users to search for books by title, author, or keyword.
+
+Author Spotlights:
+
+    Author Profiles: Featured self-published authors with bios, photos, and links to their books.
+    Success Stories: Testimonials or interviews from authors who found success through the store.
+    Author Resources: Tips and guides for self-publishing authors.
+
+Services for Authors:
+
+    Submission Guidelines: Instructions for authors on how to submit their books for consideration.
+    Publishing Services: Details on editing, formatting, and marketing services offered by the store.
+    Resources: Links to helpful resources for self-publishing authors.
+
+Blog/Articles:
+
+    Writing Tips: Articles offering advice and tips for aspiring authors.
+    Author Interviews: Q&A sessions with self-published authors.
+    Book Reviews: Reviews of self-published books available in the store.
+
+Events and Community:
+
+    Upcoming Events: Calendar of book signings, author readings, and other events.
+    Community Forum: Online space for authors and readers to interact, share insights, and discuss books.
+    Community Spotlight: Highlights of community members' achievements or contributions.
+
+Contact Us:
+
+    Contact Information: Email address, phone number, and physical address of the bookstore.
+    Contact Form: Form for visitors to submit inquiries or feedback directly through the website.
+
+FAQs:
+
+    Common Questions: Answers to frequently asked questions about the store, its policies, and self-publishing.
+
+Testimonials or Reviews:
+
+    Customer Reviews: Testimonials from satisfied customers about their experiences with the store.
+    Book Reviews: Reviews from readers and critics about the self-published books available in the store.
+
+Social Media Integration:
+
+    Social Media Links: Icons linking to the store's profiles on social media platforms.
+    Share Buttons: Buttons allowing visitors to easily share books or articles they like on social media.
+
+Newsletter Signup:
+
+    Newsletter Subscription Form: Allows visitors to subscribe to the store's newsletter for updates and promotions.
+
+With this outline, you can start creating pages for each section and filling them with relevant content. Ensure the design is visually appealing, easy to navigate, and optimized for both desktop and mobile devices.
